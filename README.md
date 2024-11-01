@@ -2,7 +2,7 @@
 
 好看的个人主页，个人主页源码，博客主页模板.**🉑️随意使用，无限制。**
 
-预览地址：[https://wexuo.github.io/home](https://wexuo.github.io/home)
+预览地址：[https://god-agent.github.io/God-agent/](https://god-agent.github.io/God-agent/)
 
 ## 集成插件
 
